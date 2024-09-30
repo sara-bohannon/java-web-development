@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ### IntelliJ IDEA ###
 out/
 !**/src/main/**/out/
@@ -27,3 +28,14 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+=======
+.DS_Store
+_build/
+.vscode
+__pycache__
+!.nojekyll
+.pyc
+__pycache__/
+docs/
+.travis.yml
+>>>>>>> 6e4dcc63a8f1ec27ce99c36da005df2a2babc66f
